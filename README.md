@@ -7,34 +7,34 @@ The project also integrates a real-time IoT dashboard and GSM module to send SMS
 
 ## SCOPE OF THE PROJECT :
 
-This project focuses on developing an embedded and IoT-enabled solution capable of:
-     - Monitoring alcohol levels in real time using a sensitive gas sensor.
-     - Alerting the user and authorities when alcohol levels exceed the threshold.
-     - Locking/controlling the vehicle ignition based on alcohol readings.
-     - Providing continuous data visualization through an IoT dashboard.
-     - Ensuring safety in personal vehicles, school buses, taxis, logistics fleets, and emergency vehicles.
-The scope extends to both hardware integration (sensors, microcontroller, GSM module) and software implementation (Streamlit dashboard, database logs, real-time updates).
+This project focuses on developing an embedded and IoT-enabled solution capable of:</BR>
+     - Monitoring alcohol levels in real time using a sensitive gas sensor.</BR>
+     - Alerting the user and authorities when alcohol levels exceed the threshold.</BR>
+     - Locking/controlling the vehicle ignition based on alcohol readings.</BR>
+     - Providing continuous data visualization through an IoT dashboard.</BR>
+     - Ensuring safety in personal vehicles, school buses, taxis, logistics fleets, and emergency vehicles.</BR>
+The scope extends to both hardware integration (sensors, microcontroller, GSM module) and software implementation (Streamlit dashboard, database logs, real-time updates).</BR>
 
 ## FEATURES :
 
-1. Real-Time Alcohol Detection using MQ-3 or equivalent sensor
-2. Instant GSM Alerts to emergency contacts
-3. Vehicle Ignition Control (optional) to prevent drunk driving
-4. Live IoT Dashboard showing alcohol level trends
-5. Buzzer/LED Alerts when threshold is breached
-6. Compact embedded system suitable for all vehicles
+1. Real-Time Alcohol Detection using MQ-3 or equivalent sensor</BR>
+2. Instant GSM Alerts to emergency contacts</BR>
+3. Vehicle Ignition Control (optional) to prevent drunk driving</BR>
+4. Live IoT Dashboard showing alcohol level trends</BR>
+5. Buzzer/LED Alerts when threshold is breached</BR>
+6. Compact embedded system suitable for all vehicles</BR>
 
 ## USAGES :
 
-This system can be used in:
-🚗 Personal Vehicles – Prevent drivers from operating vehicles under alcohol influence
-🚌 School Buses – Ensures the driver isn't intoxicated before duty
-🚕 Taxi / Ride Services – Safety measure for passengers
-🚚 Logistics & Fleet Vehicles – Companies can monitor driver safety
-🚑 Emergency Vehicles – Ensures responsible driving by staff
-🏭 Industries – Workers operating heavy machinery can be monitored.
-User-friendly web interface (optional Streamlit/Flask dashboard)
-Low-cost and highly efficient safety mechanism
+This system can be used in:</BR>
+🚗 Personal Vehicles – Prevent drivers from operating vehicles under alcohol influence</BR>
+🚌 School Buses – Ensures the driver isn't intoxicated before duty</BR>
+🚕 Taxi / Ride Services – Safety measure for passengers</BR>
+🚚 Logistics & Fleet Vehicles – Companies can monitor driver safety</BR>
+🚑 Emergency Vehicles – Ensures responsible driving by staff</BR>
+🏭 Industries – Workers operating heavy machinery can be monitored.</BR>
+User-friendly web interface (optional Streamlit/Flask dashboard)</BR>
+Low-cost and highly efficient safety mechanism</BR>
 
 ## SYSTEM ARCHITECTURE :
 
